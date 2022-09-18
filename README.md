@@ -73,5 +73,8 @@ Lookbehind is similar, except it looks at what is BEFORE what you're trying to m
 
 ## Author
 
-`Artur Aleksanyan`  
- Please feel free to view more of my projects at https://github.com/Artur0705
+`Artur Aleksanyan`
+
+- Please follow [this link](https://gist.github.com/Artur0705/f4befa26fc8dfa416f16ccb7fabc18d5) to view my gist.
+
+Please feel free to view more of my projects at https://github.com/Artur0705
